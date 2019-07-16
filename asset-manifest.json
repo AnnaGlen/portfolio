@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.13a273e8.chunk.css",
+    "main.js": "/portfolio/static/js/main.5bf736bb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5bf736bb.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.f8d5c18a.chunk.js": "/portfolio/static/js/2.f8d5c18a.chunk.js",
+    "static/js/2.f8d5c18a.chunk.js.map": "/portfolio/static/js/2.f8d5c18a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c33b65db6e69b150f98af5c4de51df18.js": "/portfolio/precache-manifest.c33b65db6e69b150f98af5c4de51df18.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.13a273e8.chunk.css.map": "/portfolio/static/css/main.13a273e8.chunk.css.map",
+    "static/media/1.jpg": "/portfolio/static/media/1.25bf4aa6.jpg",
+    "static/media/2.jpg": "/portfolio/static/media/2.272a394d.jpg",
+    "static/media/3.jpg": "/portfolio/static/media/3.237b2123.jpg",
+    "static/media/4.jpg": "/portfolio/static/media/4.0d02a85d.jpg",
+    "static/media/5.jpg": "/portfolio/static/media/5.17957e70.jpg",
+    "static/media/Detal.jpg": "/portfolio/static/media/Detal.94a34872.jpg",
+    "static/media/Elewacja.jpg": "/portfolio/static/media/Elewacja.91dd43d4.jpg",
+    "static/media/Plan,detal.jpg": "/portfolio/static/media/Plan,detal.166ff57e.jpg",
+    "static/media/Plan,przekrój.jpg": "/portfolio/static/media/Plan,przekrój.a138eabe.jpg",
+    "static/media/Plan,przekrój2.jpg": "/portfolio/static/media/Plan,przekrój2.4f2d236d.jpg",
+    "static/media/Plan,przekrój3.jpg": "/portfolio/static/media/Plan,przekrój3.9da9a012.jpg",
+    "static/media/Plan.jpg": "/portfolio/static/media/Plan.f0def854.jpg",
+    "static/media/Przekrój.jpg": "/portfolio/static/media/Przekrój.9155df78.jpg",
+    "static/media/Wizualizacja.jpg": "/portfolio/static/media/Wizualizacja.ff7c120b.jpg",
+    "static/media/Wizualizacja2.jpg": "/portfolio/static/media/Wizualizacja2.93272424.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+  }
+}
