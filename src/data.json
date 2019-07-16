@@ -1,0 +1,44 @@
+[
+  {
+    "title":"Swimmingpool Rataje",
+    "image":"Wizualizacja.jpg",
+    "text":"<p>The plot on which the swimming pool was designed is located in the Rataje Park in Poznań. The form of the building results from its function and the energy savings requirements for the building. The south wall of the building is well-isolated. The roof, covered with solar panels, is inclined towards the south. Where possible a natural light is provided. The interior is finished with architectural concrete and light blue tiles. The water is the only ornament here, reflecting lights and greenery placed next to the windows. The users should feel calm and relaxed here.</p>",
+    "modalImages":["Wizualizacja.jpg","Wizualizacja2.jpg","Plan,przekrój.jpg","Elewacja.jpg"]
+  },
+  {
+    "title":"Pavilion",
+    "image":"Wizualizacja.jpg",
+    "text":"<p>The Pavilion was created with a special focus on the exhibited objects - the sunglasses. As they are only 15x20x5cm in dimensions they need to be exposed in a certain way.  The Pavilion was designed with an open plan that is approachable from every side. The shelves below the sunglasses are about 40cm wide which gives them space to be properly visible. All sunglasses are positioned at  eye level by being mounted on special sticks.</p><p>Whole structure is made out of white plywood and covered by either glossy or mat laminate. That enables this pavilion to be located in any space as it would gently reflect the surrounding environment. To emphasize the light play a led strip was integrated into the floor.</p><p>Sunglasses, which are the only colorful element, are illuminated by a hidden lighting system above.</p>",
+    "modalImages":["Wizualizacja.jpg","Wizualizacja2.jpg","Plan,przekrój.jpg"]
+  },
+  {
+    "title":"Rural hotel and apiary",
+    "image":"Wizualizacja.jpg",
+    "text":"<p>The structure was inspired by local buildings with sloped (45 degrees) roofs. The roof is covered by solar panels. Building is placed in such a manner that the sloped roof faces the south which allows the most sunlight to be converted into electricity. Elevation covered by white bricks is also inspired by local buildings. Flat roof, under which the hotel part was placed, has skylights in the shape of a honeycomb (hexagonal). It creates an extraordinary interior and decrements the number of windows needed on the cold north side. Apiary part : workshop and apiaryhouses were design in traditional manner to suit the whole composition. The connection between apiary and hotel is a winter garden where people can relax and observe the life of bees.</p>",
+    "modalImages":["Wizualizacja.jpg","Plan,przekrój.jpg"]
+  },
+  {
+    "title":"Climber’s house",
+    "image":"Wizualizacja.jpg",
+    "text":"<p>This house was designed for special client - profesional climber. Simple shape of the building is cut by the extruded glazed section in the middle. In this part a climbing wall is supposed to be placed. Elevation is covered by white brick as a reference of neighbourhooding buildings material. The whole structure is devided into public zone on the ground floor and private one on the first floor.</p>",
+    "modalImages":["Wizualizacja.jpg","Plan,przekrój.jpg","Plan,przekrój2.jpg","Plan,przekrój3.jpg"]
+  },
+  {
+    "title":"The Dream Gym",
+    "image":"Wizualizacja.jpg",
+    "text":"<p>This building was design in coloboration with another student – Olga Łukaszewicz. The shape of the building was indicated by the shape of the plot. Our aim was to fill the gap in the urban wall. We created four storey gym building with the last floor open serving as a roof garden.The ground floor partly is an coctail bar and partly a parking. First and second floor is occupied by the gym itself.</p><p>Glazed elevation was covered by perforated metal sheets in irregular shapes they limit the access of sunlight and hide the structural elements.</p>",
+    "modalImages":["Wizualizacja.jpg","Plan,przekrój.jpg","Plan,przekrój2.jpg"]
+  },
+  {
+    "title":"Kindergarten",
+    "image":"Plan.jpg",
+    "text":"<p>This project was design in Valencia, Spain. Due to the weather conditions it needed to be design in certain way. The shape of the building is a continuation of the urban walls. On the northern side, where it meets the argiculture land, the wall's form is organic.</p><p>The main user of the object is small and especially sensitive to heat. That is why the children's classrooms are placed on the north side where there is no direct sunlight. The south elevation  is protected by the outer wall and the trees.</p>",
+    "modalImages":["Plan.jpg","Przekrój.jpg","Plan,detal.jpg","Detal.jpg"]
+  },
+  {
+    "title":"Graphics",
+    "image":"5.jpg",
+    "text":"<p>Here are some visualisations of already exsisting  building called ,,Colegio de Santa Maria de Jesus”. The shape of the building as well as the materials were recreated using reference photos.</p>",
+    "modalImages":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg"]
+  }
+  ]
